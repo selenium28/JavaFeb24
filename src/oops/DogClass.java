@@ -11,7 +11,7 @@ public class DogClass {
 //		new DogClass(); - object
 		
 		DogClass dog = new DogClass();
-		dog.running();
+		dog.running();   // method calling
 		dog.barking();
 		dog.eat();
 
